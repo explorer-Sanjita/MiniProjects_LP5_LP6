@@ -1,0 +1,8 @@
+[package]
+name = "parallel_quicksort_mpi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mpi = "0.8.0"
+rand = "0.8"
